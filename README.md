@@ -1,15 +1,15 @@
 # requests-base-url
 
 ![Languate - Python](https://img.shields.io/badge/language-python-blue.svg)
-![PyPI - License](https://img.shields.io/pypi/l/httpz)
-![PyPI](https://img.shields.io/pypi/v/httpz)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/httpz)
+![PyPI - License](https://img.shields.io/pypi/l/requests-base-url)
+![PyPI](https://img.shields.io/pypi/v/requests-base-url)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/requests-base-url)
 
 Http client with base_url base on requests
 
 ## Install
 ```
-pip install httpz
+pip install requests-base-url
 ```
 
 ## Simple Use
