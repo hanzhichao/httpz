@@ -1,4 +1,4 @@
-from httpz import HTTP, http
+from requests_base_url import HTTP, http
 
 
 def test_http():
